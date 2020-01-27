@@ -1,0 +1,17 @@
+.fa-star,.fa-star-half{
+	 color: yellowgreen;
+    padding: 3% 0;
+}
+
+
+img{
+	min-height: 250px;
+}
+
+#cart_count{
+text-align: center;
+margin-left: 0.5rem;
+padding: 0rem 0.9rem 0.1rem 0.9rem;
+border-radius: 3rem;
+
+}
